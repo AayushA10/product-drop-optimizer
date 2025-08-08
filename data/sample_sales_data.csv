@@ -1,0 +1,11 @@
+ProductID,ProductName,LaunchDate,Category,Price,Channel,UnitsSold30,Region
+P001,Wireless Earbuds,2023-01-10,Electronics,49.99,Instagram,320,US
+P002,Yoga Mat,2023-02-05,Fitness,29.99,Email,210,US
+P003,LED Lamp,2023-02-15,Home Decor,19.99,Facebook,150,Canada
+P004,Smartwatch,2023-03-01,Electronics,99.99,Instagram,380,UK
+P005,Blender,2023-03-10,Kitchen,39.99,YouTube,190,US
+P006,Running Shoes,2023-03-20,Fitness,59.99,Instagram,310,US
+P007,Desk Organizer,2023-04-05,Home Decor,15.99,Email,120,India
+P008,Protein Powder,2023-04-15,Fitness,45.99,Facebook,240,UK
+P009,Air Purifier,2023-05-01,Home Appliances,129.99,Instagram,280,US
+P010,Smart Bulb,2023-05-10,Electronics,22.99,Email,175,Canada
